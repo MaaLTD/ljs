@@ -1,0 +1,14 @@
+ div {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+  }
+  .big-blue {
+    width: 200px;
+    height: 200px;
+    background-color: #00f;
+  }
+
+  .body {
+    background: #000;
+  }
